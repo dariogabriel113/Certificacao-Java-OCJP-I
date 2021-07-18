@@ -1,2 +1,2 @@
-# Certifica-o-Java-OCJP-I
-Certifica-o-Java-OCJP-I.
+# Certificação-Java-OCJP-I
+Certificação-Java-OCJP-I.
